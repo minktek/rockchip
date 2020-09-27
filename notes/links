@@ -1,0 +1,27 @@
+https://www.amazon.com/gp/product/B0868WSTXH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+	- where it came from
+
+looks like its this: Rock64 board
+	https://www.pine64.org/devices/single-board-computers/rock64/
+		SPECIFICATIONS
+			Rockchip RK3328 Quad-Core SOC with Mali 450MP2
+			LPDDR3 RAM (up to 4GB)
+			Gigabit Ethernet
+			Micro SD Slot
+			eMMC Module Slot
+			SPI Flash 128Mbit
+			4K Digital Video Out
+			2x USB 2.0 Host
+			1x USB 3.0 Host
+			PI-2 Bus
+			PI-P5+ BUS
+			IR R/X Port
+			Real Time Clock Port (RTC)
+			Power Over Ethernet (POE) (when using optional HAT module)
+			A/V Jack
+			Power, Reset and Recovery buttons
+			3.5mm Barrel Power (5V 3A) Port
+
+more info from source:
+- https://wiki.pine64.org/index.php?title=ROCK64
+	

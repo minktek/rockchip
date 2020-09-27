@@ -1,0 +1,9 @@
+paritions on the card that it came with (from Amazon; see the links file)
+
+/dev/sdb1: PARTLABEL="loader1" PARTUUID="c010e94b-c1ec-4994-bb4d-4da93962b845"
+/dev/sdb2: PARTLABEL="reserved1" PARTUUID="b93b3eaf-1d5e-482b-bde4-327782700352"
+/dev/sdb3: PARTLABEL="reserved2" PARTUUID="67a6a545-a744-4e02-b561-a449518baafe"
+/dev/sdb4: PARTLABEL="loader2" PARTUUID="b86dcef8-2588-4763-9ad0-f94eb01d0467"
+/dev/sdb5: PARTLABEL="atf" PARTUUID="d6bd26be-1383-4a89-9a5f-e15839c1d828"
+/dev/sdb6: SEC_TYPE="msdos" LABEL_FATBOOT="boot" LABEL="boot" UUID="E3A3-D5E8" BLOCK_SIZE="512" TYPE="vfat" PARTLABEL="boot" PARTUUID="0b473c35-26e1-4a26-b7b2-94bb494304e7"
+/dev/sdb7: LABEL="linux-root" UUID="2aa48d8c-9317-42e0-abfd-b7e6b90b56d9" BLOCK_SIZE="4096" TYPE="ext4" PARTLABEL="root" PARTUUID="69850a2b-5b43-410d-b962-68552d1b667f"
